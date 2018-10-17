@@ -39,7 +39,7 @@
 		</div>
 		
 		<div class="container" id="frame">
-			<iframe name="frm" class="form-control" style="margin-top:30px; height:500px;background-color:transparent; border:2px solid white;" src="Availablity.php"></iframe>
+			<iframe name="frm" class="form-control" style="margin-top:30px; height:500px; width: 100%; background-color:transparent; border:2px solid white;" src="Availablity.php"></iframe>
 		</div>
 
 </body>
